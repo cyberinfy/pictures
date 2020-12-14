@@ -1518,20 +1518,5 @@
       "name": "0304.jpg",
       "path": "https://github.com/cyberinfy/pictures/tree/master/data/0304.jpg",
       "type": "file"
-    },
-    {
-      "name": "output.txt",
-      "path": "https://github.com/cyberinfy/pictures/tree/master/data/output.txt",
-      "type": "file"
-    },
-    {
-      "name": "py",
-      "path": "https://github.com/cyberinfy/pictures/tree/master/data/py",
-      "type": "file"
-    },
-    {
-      "name": "script.py",
-      "path": "https://github.com/cyberinfy/pictures/tree/master/data/script.py",
-      "type": "file"
     }
 ]
